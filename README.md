@@ -2,6 +2,7 @@
 <h3 align="center">Un desarrollador frontend apasionado de Argentina</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federicoa15&label=Vistas%20de%20perfil&color=0e75b6&style=flat&theme=dracula" alt="federicoa15" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=federicoa15&theme=dracula" alt="federicoa15" /></a> </p>
+
 🔭 Actualmente estoy trabajando en Pet-Friendly-Universe
 
 🌱 Actualmente estoy aprendiendo Python, Docker, TypeScript
