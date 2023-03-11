@@ -1,21 +1,18 @@
-<h1 align="center">Hola Soy Federico</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=federicoa15&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="federicoa15" /> </p>
-
+<h1 align="center">Hola, soy Federico</h1>
+<h3 align="center">Un desarrollador frontend apasionado de Argentina</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=federicoa15&label=Vistas%20de%20perfil&color=0e75b6&style=flat&theme=dracula" alt="federicoa15" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=federicoa15&theme=dracula" alt="federicoa15" /></a> </p>
+🔭 Actualmente estoy trabajando en Pet-Friendly-Universe
 
-- 🔭 I’m currently working on [Pet-Friendly-Universe](https://petfriendlyuniverse.vercel.app/)
+🌱 Actualmente estoy aprendiendo Python, Docker, TypeScript
 
-- 🌱 I’m currently learning **Python, Docker, TypeScript**
+📝 Regularmente escribo artículos en https://www.linkedin.com/in/federico-jose-almeida/
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/federico-jose-almeida/](https://www.linkedin.com/in/federico-jose-almeida/)
+💬 Pregúntame sobre React, Redux, Express, Sequelize
 
-- 💬 Ask me about **React, Redux, Express, Sequelize**
+📫 Cómo contactarme federicoalmeida15@gmail.com
 
-- 📫 How to reach me **federicoalmeida15@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/federicoa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federicoa15" height="30" width="40" /></a>
 </p>
