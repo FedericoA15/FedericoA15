@@ -25,7 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=federicoa15&show_icons=true&theme=dracula&locale=en&layout=compact" alt="federicoa15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=federicoa15&theme=dracula" alt="federicoa15" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=federicoa15&show_icons=true&theme=dracula&locale=en" alt="federicoa15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=federicoa15&theme=dracula" alt="federicoa15" /></p> 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=federicoa15&show_icons=true&theme=dracula&locale=en" alt="federicoa15" /></p>
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FedericoA15&theme=dracula&repo=Pet-Friendly-Universe-e-commerce) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FedericoA15&theme=dracula&repo=Henry-PI-Pokemon)
