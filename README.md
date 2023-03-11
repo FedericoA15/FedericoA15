@@ -29,6 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=federicoa15&theme=dracula" alt="federicoa15" /></p>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FedericoA15&theme=dracula&repo=Pet-Friendly-Universe-e-commerce)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FedericoA15&theme=dracula&repo=Pet-Friendly-Universe-e-commerce) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FedericoA15&theme=dracula&repo=Henry-PI-Pokemon)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FedericoA15&theme=dracula&repo=Henry-PI-Pokemon)
+
