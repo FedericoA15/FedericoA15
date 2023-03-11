@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=federicoa15&show_icons=true&locale=en" alt="federicoa15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=federicoa15&" alt="federicoa15" /></p>
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pablosecuen&repo=E-commerce)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pablosecuen&repo=E-commerce)
