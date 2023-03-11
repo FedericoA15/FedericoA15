@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federicoa15&label=Profile%20views&color=0e75b6&style=flat" alt="federicoa15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=merko"><img src="https://github-profile-trophy.vercel.app/?username=federicoa15" alt="federicoa15" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=merko"><img src="https://github-profile-trophy.vercel.app/?username=federicoa15&theme=merko" alt="federicoa15" /></a> </p>
 
 - 🔭 I’m currently working on [Pet-Friendly-Universe](https://petfriendlyuniverse.vercel.app/)
 
