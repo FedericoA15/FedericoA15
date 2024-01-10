@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federicoa15&label=Vistas%20de%20perfil&color=0e75b6&style=flat&theme=dracula" alt="federicoa15" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=federicoa15&theme=dracula" alt="federicoa15" /></a> </p>
 
-🔭 Actualmente estoy trabajando en Pet-Friendly-Universe
+🔭 Actualmente estoy trabajando en Entropy
 
-🌱 Actualmente estoy aprendiendo Python, Docker, TypeScript
+🌱 Actualmente estoy aprendiendo Java, Docker y Python
 
 📝 Regularmente escribo artículos en https://www.linkedin.com/in/federico-jose-almeida/
 
-💬 Pregúntame sobre React, Redux, Express, Sequelize
+💬 Pregúntame sobre Express, SQL, Java y Python
 
 📫 Cómo contactarme federicoalmeida15@gmail.com
 
